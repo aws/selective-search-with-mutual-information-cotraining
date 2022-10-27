@@ -1,0 +1,4 @@
+query, ID, doc, click, purchase
+query_content1, 10001, doc_content1, 3, 1
+query_content2, 10002, doc_content2, 2, 1
+
